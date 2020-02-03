@@ -1,0 +1,3 @@
+- get rid of koi_scores and uncertainty values.
+- try some scaling
+- train the classifier using SGD
